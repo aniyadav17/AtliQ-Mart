@@ -1,6 +1,6 @@
 # AtliQ-Mart
 
-![Atliq Mart](https://github.com/Ben-Joan/Atliq-Mart/blob/main/ATLIQ.png)
+![AtliQ Mart](https://github.com/aniyadav17/AtliQ-Mart/blob/main/AtliQ.png)
 
 # Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
@@ -26,7 +26,7 @@ To perform this task, the process involved were:
 
 1.Importing data as a CSV file and creating a data model from scratch to link the tables 
 
-![Data Model](https://github.com/Ben-Joan/Atliq-Mart/blob/main/Screenshot%20(177).png)
+![Data Model](https://github.com/aniyadav17/AtliQ-Mart/blob/main/Data_Model_AM.png)
                     **power BI Data Modeling**
 
 2. Using the appropriate data types and creating calculated columns to aid in providing more insights
